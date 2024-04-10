@@ -1,6 +1,3 @@
 THis is the test file to learn the git conflict
-<<<<<<< HEAD
 I am the admin editing the assignment
-=======
 I am adding this to the file by client account
->>>>>>> a3ae963 (add my comment)
