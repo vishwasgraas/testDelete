@@ -11,3 +11,9 @@ learning phase 1 -commit 2
 learning phase 1 -commit 3
 learning phase 1 -commit 4
 learning phase 1 -commit 5
+
+2nd phase 1 phase failed
+commit -1
+commit -2
+commit-3
+commit -4
